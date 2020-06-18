@@ -192,7 +192,8 @@ body{
   display: block;
 }
 
-.side-navbar.shrink .sidenav-header-inner h3, .side-navbar.shrink .sidenav-header-inner span{
+.side-navbar.shrink .sidenav-header-inner h3, .side-navbar.shrink .sidenav-header-inner span,
+.side-navbar.show-sm .sidenav-header-inner h3, .side-navbar.show-sm .sidenav-header-inner span{
   display: none;
 }
 
